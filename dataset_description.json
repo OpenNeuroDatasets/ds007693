@@ -1,0 +1,22 @@
+{
+  "Name": "PFR",
+  "BIDSVersion": "1.8.0",
+  "DatasetType": "raw",
+  "License": "CC0",
+  "Authors": [
+    "Hutelin, Zach",
+    "Ahrens, Monica",
+    "Baugh, Mary Elizabeth",
+    "Nartey, Emmanuel",
+    "Herald, Delbert L., III",
+    "Hanlon, Alexandra L.",
+    "DiFeliceantonio, Alexandra G."
+  ],
+  "Funding": [
+    "This study was supported R01 DK132389 to AGD, and National Science Foundation Graduate Research Fellowship 2235205 to ZH."
+  ],
+  "EthicsApprovals": [
+    "All study protocols were approved by the Virginia Tech IRB (#21-1052)."
+  ],
+  "DatasetDOI": "10.7294/32077803"
+}
