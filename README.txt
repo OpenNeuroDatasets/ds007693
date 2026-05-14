@@ -1,4 +1,4 @@
-# PFR — [Processed Food Reward]
+# Ultraprocessed foods elicit distinct metabolic and neural responses when compared to non-ultraprocessed foods
 
 ## Contact
 Alexandra G. DiFeliceantonio — Dife@vt.edu
@@ -25,3 +25,10 @@ This study was supported R01 DK132389, and National Science Foundation Graduate 
 
 ## Ethics
 All study protocols were approved by the Virginia Tech IRB (#21-1052).
+
+## Data Not Analyzed
+- sub-05: Excluded due to head movement
+- sub-08: Excluded due to head movement 
+- sub-21: Excluded due to equipment failure 
+- sub-01: Excluded from analysis with WTP due to >25% of bids below $.25 or missing 
+- sub-23: Excluded from analysis with WTP due to >25% of bids below $.25 or missing
