@@ -1,0 +1,45 @@
+{
+  "onset": {
+    "LongName": "Onset time",
+    "Description": "Onset of the event in seconds from the start of the scan",
+    "Units": "s"
+  },
+  "duration": {
+    "LongName": "Event duration",
+    "Description": "Duration of the event in seconds",
+    "Units": "s"
+  },
+  "trial_type": {
+    "LongName": "Trial type",
+    "Description": "Type of trial presented during the task",
+    "Levels": {
+      "non-upf": "non-ultraprocessed food image presentation",
+      "upf": "ultra-processed food image presentation",
+      "auction": "Auction bidding period"
+    }
+  },
+  "food_name": {
+    "LongName": "Name of the food shown",
+    "Description": "Name of the food presented at this event."
+  },
+  "frequency": {
+    "LongName": "Frequency of consumption (demeaned)",
+    "Description": "Participant-reported frequency of consuming the food item, demeaned within subject and run. n/a for auction and missed trials.",
+    "Units": "arbitrary"
+  },
+  "healthy": {
+    "LongName": "Perceived healthiness (demeaned)",
+    "Description": "Participant-rated healthiness of the food item, demeaned within subject and run. n/a for auction and missed trials.",
+    "Units": "arbitrary"
+  },
+  "wtp": {
+    "LongName": "Willingness to pay (demeaned)",
+    "Description": "Bid amount normalized to $0-$5 scale then demeaned within subject and run. n/a for auction and missed trials.",
+    "Units": "USD"
+  }, 
+    "StimulusPresentation": {
+        "SoftwareName": "PsychoPy3",
+        "SoftwareVersion": "v2023.1.0",
+        "Code": "doi:10.7294/32077803"
+    }
+}
