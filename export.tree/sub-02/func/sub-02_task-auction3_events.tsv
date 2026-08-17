@@ -1,0 +1,57 @@
+onset	duration	trial_type	food_name	frequency	healthy	wtp
+4.73	4.75	upf	Cheerios and Milk1.jpg	-178.57	276.79	-0.71
+9.48	7.17	auction	Cheerios and Milk1.jpg	n/a	n/a	n/a
+23.36	4.84	non-upf	Popcorn1.jpg	71.43	-31.21	-0.9
+28.2	5.3	auction	Popcorn1.jpg	n/a	n/a	n/a
+37.41	4.83	non-upf	Buttered Pasta1.jpg	71.43	-198.21	-2.4
+42.23	11.11	auction	Buttered Pasta1.jpg	n/a	n/a	n/a
+56.69	4.8	upf	Chex Mix2.jpg	71.43	-47.21	1.2
+61.5	5.43	auction	Chex Mix2.jpg	n/a	n/a	n/a
+73.85	4.81	upf	Frosted Mini Wheats1.jpg	-178.57	154.79	-2.51
+78.66	8.19	auction	Frosted Mini Wheats1.jpg	n/a	n/a	n/a
+95.9	4.84	non-upf	Pepper Jack Cheese1.jpg	-178.57	-276.21	0.44
+100.74	4.81	auction	Pepper Jack Cheese1.jpg	n/a	n/a	n/a
+112.43	4.84	non-upf	Mini Cheese Wheels1.jpg	71.43	-148.21	0.59
+117.27	6.96	auction	Mini Cheese Wheels1.jpg	n/a	n/a	n/a
+132.05	4.83	upf	Chocolate Chip Cookies1.jpg	321.43	-339.21	1.37
+136.88	5.79	auction	Chocolate Chip Cookies1.jpg	n/a	n/a	n/a
+152.36	4.84	upf	Hot Dog1.jpg	-178.57	-261.21	-2.56
+157.2	5.26	auction	Hot Dog1.jpg	n/a	n/a	n/a
+171.6	4.84	non-upf	Oatmeal and Honey1.jpg	-178.57	239.79	-0.29
+176.43	3.77	auction	Oatmeal and Honey1.jpg	n/a	n/a	n/a
+188.84	4.84	non-upf	Fried Egg, Hashbrowns, and Avocado1.jpg	321.43	344.79	1.51
+193.68	8.25	auction	Fried Egg, Hashbrowns, and Avocado1.jpg	n/a	n/a	n/a
+204.89	4.85	upf	Peanut Butter and Jelly Sandwich1.jpg	-178.57	206.79	1.42
+209.74	5.78	auction	Peanut Butter and Jelly Sandwich1.jpg	n/a	n/a	n/a
+220.98	4.86	upf	Chicken Nuggets1.jpg	321.43	-267.21	-0.62
+225.83	8.3	auction	Chicken Nuggets1.jpg	n/a	n/a	n/a
+244.01	4.82	non-upf	Bananas and Craisins1.jpg	71.43	280.79	0.37
+248.83	3.94	auction	Bananas and Craisins1.jpg	n/a	n/a	n/a
+261.54	4.86	non-upf	Baked Sweet Potato1.jpg	-178.57	241.79	0.7
+266.4	7.32	auction	Baked Sweet Potato1.jpg	n/a	n/a	n/a
+277	4.82	upf	Grilled Cheese1.jpg	-178.57	-321.21	0.95
+281.82	3.95	auction	Grilled Cheese1.jpg	n/a	n/a	n/a
+294.96	4.84	upf	Hot Pocket1.jpg	-178.57	-205.21	-2.42
+299.8	6.27	auction	Hot Pocket1.jpg	n/a	n/a	n/a
+314.02	4.84	non-upf	Harboiled Eggs1.jpg	-178.57	274.79	0.9
+318.86	6.16	auction	Harboiled Eggs1.jpg	n/a	n/a	n/a
+335.51	4.83	non-upf	Mozzarella Cheese Sticks1.jpg	71.43	-219.21	0.67
+340.34	4.64	auction	Mozzarella Cheese Sticks1.jpg	n/a	n/a	n/a
+348.85	4.83	upf	Fruit Chews1.jpg	321.43	-148.21	0.7
+353.68	5.73	auction	Fruit Chews1.jpg	n/a	n/a	n/a
+363.22	4.84	upf	Deli Turkey and Mashed Potatoes1.jpg	-178.57	198.79	1.36
+368.06	9.78	auction	Deli Turkey and Mashed Potatoes1.jpg	n/a	n/a	n/a
+385.75	4.83	non-upf	Cheddar Cheese1.jpg	71.43	-233.21	0.51
+390.57	3.7	auction	Cheddar Cheese1.jpg	n/a	n/a	n/a
+404.61	4.83	non-upf	Apples and Pecans1.jpg	71.43	361.79	-0.12
+409.44	6	auction	Apples and Pecans1.jpg	n/a	n/a	n/a
+424.34	4.84	upf	Pop-Tarts1.jpg	-178.57	-285.21	-1.12
+429.19	3.37	auction	Pop-Tarts1.jpg	n/a	n/a	n/a
+439.71	4.83	upf	Animal Crackers1.jpg	-178.57	-142.21	-1.34
+444.54	9.79	auction	Animal Crackers1.jpg	n/a	n/a	n/a
+457.39	4.82	non-upf	Baked Potato and Chicken1.jpg	71.43	253.79	1.52
+462.21	4.38	auction	Baked Potato and Chicken1.jpg	n/a	n/a	n/a
+476.08	4.83	non-upf	Trail Mix with Peanuts1.jpg	71.43	291.79	1.05
+480.9	4.9	auction	Trail Mix with Peanuts1.jpg	n/a	n/a	n/a
+490.96	4.82	upf	Veggie Straws2.jpg	321.43	-3.21	-0.22
+495.78	4.47	auction	Veggie Straws2.jpg	n/a	n/a	n/a
